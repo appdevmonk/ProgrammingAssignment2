@@ -1,5 +1,5 @@
 
-##makeCacheMatrix is a 'constructor' function that returns a
+
 
 
 ## function makeCacheMatrix enscapulates the input matrix, and its inverse.
